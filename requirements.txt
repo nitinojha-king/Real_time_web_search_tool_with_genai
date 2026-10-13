@@ -1,0 +1,22 @@
+# LLM & Agent Framework
+langchain
+langchain-openai
+langchain-community
+langgraph
+openai
+
+# Tools
+tavily-python
+beautifulsoup4
+requests
+lxml
+
+# React Agent / Runnables support
+langchain-core
+
+# Environment
+python-dotenv
+
+# Utilities
+httpx
+pydantic
